@@ -1,15 +1,15 @@
 # 👋 Hi there, I'm Sanjay
 
 - 💻 I work as a Frontend Developer at GritFeat Solutions
-- 🔭 Currently working on implementing OAuth with node.js
-- 🌱 Recently into learning SvelteJS with Test-driven approach
+- 🔭 Currently working on Microservices:saga
+- 🌱 Recently into learning Microfrontends
 - 🥅 2022 Goals: Getting started with cloud services (AWS/GCP/Azure)
 
 ### Connect with me:
 
-[<img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />](https://twitter.com/saspiansparrow#gh-dark-mode-only)
+[<img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />](https://twitter.com/saspiansparrow)
 &nbsp;&nbsp;
-[<img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>](https://linkedin.com/in/saspian#gh-dark-mode-only)
+[<img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>](https://linkedin.com/in/saspian)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
