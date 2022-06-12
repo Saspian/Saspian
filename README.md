@@ -1,9 +1,9 @@
 # 👋 Hi there, I'm Sanjay
 
-- 💻 I work as a Frontend Developer at GritFeat Solutions
+- 💻 I work as a Software Engineer at GritFeat Solutions
 - 🔭 Currently working on Microservices:saga
 - 🌱 Recently into learning Microfrontends
-- 🥅 2022 Goals: Getting started with cloud services (AWS/GCP/Azure)
+- 🥅 2022 Goal: Getting started with cloud services (AWS/GCP/Azure)
 
 ### Connect with me:
 
