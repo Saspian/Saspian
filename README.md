@@ -1,9 +1,9 @@
 # 👋 Hi there, I'm Sanjay
 
-- 💻 I work as a Software Engineer at GritFeat Solutions
-- 🔭 Currently working on Microservices:saga
-- 🌱 Recently into learning Microfrontends
-- 🥅 2022 Goal: Getting started with cloud services (AWS/GCP/Azure)
+- 💻 I work as a Fullstack Developer at Dimitra technology
+- 🔭 Currently working on Microservices architecture
+- 🌱 Recently into learning Microservices
+- 🥅 2023 Goal: Getting started with cloud services (AWS/GCP/Azure)
 
 ### Connect with me:
 
