@@ -3,7 +3,7 @@
 - 💻 I work as a Fullstack Developer at Dimitra technology
 - 🔭 Currently working on Microservices architecture
 - 🌱 Recently into learning Microservices
-- 🥅 2023 Goal: Getting started with cloud services (AWS/GCP/Azure)
+- 🥅 2024 Goal: Cloud Certification (AWS/GCP/Azure)
 
 ### Connect with me:
 
