@@ -1,9 +1,9 @@
 # 👋 Hi there, I'm Sanjay
 
-- 💻 I work as a Fullstack Developer at Dimitra technology
-- 🔭 Currently working on Microservices architecture
-- 🌱 Recently into learning Microservices
-- 🥅 2024 Goal: Cloud Certification (AWS/GCP/Azure)
+- 💻 I'm studying MSc. Business Informatics at Philips University, Marburg, Germany
+- 🔭 Currently working on portfolio projects and will be live very soon
+- 🌱 Recently into DSA in pythons and AI/ML tools
+- 🥅 2025 Goal: Cloud Certification and deploying portfolio projects
 
 ### Connect with me:
 
