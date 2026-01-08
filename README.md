@@ -2,8 +2,8 @@
 
 - 💻 I'm studying MSc. Business Informatics at Philips University, Marburg, Germany
 - 🔭 Currently working on portfolio projects and will be live very soon
-- 🌱 Recently into DSA in pythons and AI/ML tools
-- 🥅 2025 Goal: Cloud Certification and deploying portfolio projects
+- 🌱 Recently into realtime system architecture
+- 🥅 2026 Goal: Cloud Certification and deploying portfolio projects
 
 ### Connect with me:
 
