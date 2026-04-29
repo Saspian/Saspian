@@ -5,8 +5,8 @@ Full-stack developer focused on scalable systems, distributed architecture, and 
 ## GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Saspian&show_icons=true&hide_border=true&theme=default" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saspian&layout=compact&hide_border=true&theme=default" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Saspian&show_icons=true&hide_border=true&theme=dark" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saspian&layout=compact&hide_border=true&theme=dark" />
 </p>
 
 <br />
