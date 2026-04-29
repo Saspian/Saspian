@@ -32,7 +32,8 @@ GitHub: https://github.com/Saspian/infinite-render <br />
 
 ### AI PDF Processing Pipeline
 Document extraction system using Python, OCR, parsing, validation, and structured output generation. <br /><br />
-GitHub: https://github.com/Saspian/pdf-extractor-ui  <br />
+GitHub (UI): https://github.com/Saspian/pdf-extractor-ui  <br />
+GitLab (Server): https://gitlab.uni-marburg.de/gurung/pdf-extractor <br />
 **Tech Stack:** React (Vite), Python, FastAPI, Tesseract  <br />
 
 ## Currently Learning
