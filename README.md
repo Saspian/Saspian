@@ -2,6 +2,15 @@
 
 Full-stack developer focused on scalable systems, distributed architecture, and high-performance web applications. <br />
 
+## GitHub Stats
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Saspian&show_icons=true&hide_border=true&theme=default" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saspian&layout=compact&hide_border=true&theme=default" />
+</p>
+
+<br />
+
 - 📚 Currently pursuing MSc. Business Informatics at Philipps University Marburg, Germany.
 - 🔭 Currently building high-concurrency backend systems and production-ready portfolio projects  
 - 🌱 Exploring distributed systems, event-driven architecture, and high-concurrency backend design
