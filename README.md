@@ -28,7 +28,7 @@ GitHub: https://github.com/Saspian/velocity-seats <br />
 Production-ready encrypted task management system with JWT authentication, refresh token handling, task prioritization, drag-and-drop ordering, completed/uncompleted workflow, and per-user encrypted todo storage. <br /><br />
 Try it! [Secure Todo App](https://task.saspian.com) <br />
 GitHub: https://github.com/Saspian/infinite-render <br />
-**Tech Stack:** TypeScript, React, Node, MongoDB <br />
+**Tech Stack:** TypeScript, Next.js, Node, MongoDB <br />
 
 ### AI PDF Processing Pipeline
 Document extraction system using Python, OCR, parsing, validation, and structured output generation. <br /><br />
